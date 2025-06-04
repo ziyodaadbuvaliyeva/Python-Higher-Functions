@@ -2,6 +2,7 @@ from randomuser import randomuser_data
 
 def get_email_list(users: list[dict]) -> list[str]:
     pass
+    
 
 def get_name_list(users: list[dict]) -> list[str]:
     pass
